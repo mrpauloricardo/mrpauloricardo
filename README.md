@@ -23,13 +23,10 @@ Sou o Paulo, tenho 22 anos, natural de Fortaleza, estou explorando o mundo do de
 📫 Você pode entrar em contato comigo via [LinkedIn](https://linkedin.com/in/mrpauloricardo).
 
 ##
+[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpauloricardo&show_icons=true&theme=github_dark)](https://github.com/mrpauloricardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpauloricardo&layout=compact&langs_count=7&theme=github_dark&height=200)](https://github.com/mrpauloricardo/github-readme-stats)
 
-<div>
-  <a href="https://github.com/mrpauloricardo">
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=mrpauloricardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpauloricardo&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
+![Snake animation](https://github.com/mrpauloricardo/mrpauloricardo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **mrpauloricardo/mrpauloricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

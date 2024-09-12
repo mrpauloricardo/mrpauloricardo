@@ -1,44 +1,42 @@
-## Hello World!
+<h2 align="left">👋 Olá Mundo</h2>
 
-Sou o Paulo, tenho 22 anos, natural de Fortaleza, estou explorando o mundo do desenvolvimento Back-End com Java.
+###
 
-## Tecnologias e Ferramentas:
+<h2 align="left">Sobre Mim</h2>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
+###
+
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas<br>- Foco principal em desenvolvimento Back-End com Java</p>
+
+###
+
+<h2 align="left">Tecnologias Utilizadas</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
-<br>
 
-📖 Cursando Análise e Desenvolvimento de Sistemas
+###
 
-🌱 Atualmente estou com os meus esforços voltados para a linguagem Java com um foco no Back-End;
+<h2 align="left">Estatísticas</h2>
 
-📫 Você pode entrar em contato comigo via [LinkedIn](https://linkedin.com/in/mrpauloricardo).
+###
 
-##
-[![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrpauloricardo&show_icons=true&theme=github_dark)](https://github.com/mrpauloricardo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrpauloricardo&layout=compact&langs_count=7&theme=github_dark&height=200)](https://github.com/mrpauloricardo/github-readme-stats)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrpauloricardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrpauloricardo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
-![Snake animation](https://github.com/mrpauloricardo/mrpauloricardo/blob/output/github-contribution-grid-snake.svg)
+###
 
-<!--
-**mrpauloricardo/mrpauloricardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/mrpauloricardo/mrpauloricardo/output/snake.svg" alt="Snake animation" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
